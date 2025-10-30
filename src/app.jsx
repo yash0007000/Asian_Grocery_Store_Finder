@@ -488,3 +488,15 @@ export default function EasternAisles() {
     </div>
   );
 }
+
+/* 
+to run the code:
+npm run dev
+```
+
+You should see:
+```
+  VITE v4.x.x  ready in XXX ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose  */
